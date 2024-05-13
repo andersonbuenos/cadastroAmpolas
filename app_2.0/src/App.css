@@ -1,0 +1,20 @@
+
+
+thead tr{
+    background-color: #00000044;
+    
+}
+thead *{
+    /* color: white !important; */
+}
+
+tbody tr:nth-child(2n){
+    background-color: #DDD;
+}
+tbody tr:nth-child(2n+1){
+    background-color: #eee;
+}
+
+.bold-text {
+    font-weight:bold ;
+}
